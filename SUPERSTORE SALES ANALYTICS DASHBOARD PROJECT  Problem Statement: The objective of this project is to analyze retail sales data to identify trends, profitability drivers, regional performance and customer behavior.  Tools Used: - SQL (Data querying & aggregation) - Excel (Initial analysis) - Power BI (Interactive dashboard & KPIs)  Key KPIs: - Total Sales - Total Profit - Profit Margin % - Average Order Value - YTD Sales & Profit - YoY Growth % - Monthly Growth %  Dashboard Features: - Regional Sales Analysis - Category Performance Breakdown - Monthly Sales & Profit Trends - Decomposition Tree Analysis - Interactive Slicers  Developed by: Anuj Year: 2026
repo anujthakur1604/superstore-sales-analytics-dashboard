@@ -1,0 +1,29 @@
+SUPERSTORE SALES ANALYTICS DASHBOARD PROJECT
+
+Problem Statement:
+The objective of this project is to analyze retail sales data to identify trends,
+profitability drivers, regional performance and customer behavior.
+
+Tools Used:
+- SQL (Data querying & aggregation)
+- Excel (Initial analysis)
+- Power BI (Interactive dashboard & KPIs)
+
+Key KPIs:
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Average Order Value
+- YTD Sales & Profit
+- YoY Growth %
+- Monthly Growth %
+
+Dashboard Features:
+- Regional Sales Analysis
+- Category Performance Breakdown
+- Monthly Sales & Profit Trends
+- Decomposition Tree Analysis
+- Interactive Slicers
+
+Developed by: Anuj
+Year: 2026
