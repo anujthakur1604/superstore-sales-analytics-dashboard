@@ -64,3 +64,6 @@ superstore-sales-analytics-dashboard/
 ├── README.md
 └── Project_Documentation/
         └── Project_Overview.txt
+
+## Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
