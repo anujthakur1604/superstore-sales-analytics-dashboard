@@ -125,4 +125,5 @@ SELECT
     AVG(Discount) AS Avg_Discount
 FROM superstore_sales
 WHERE Customer_Name = 'Sean Miller'
+
 GROUP BY Category;
