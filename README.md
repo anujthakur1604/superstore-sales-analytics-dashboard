@@ -69,4 +69,4 @@ superstore-sales-analytics-dashboard/
 ![Dashboard Preview](dashboard_preview.png)
 
 ## Dashboard Preview
-Sale_Analysis_Dashboard.png
+![Sales Dashboard ](Sale_Analysis_Dashboard.png)
