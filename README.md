@@ -55,3 +55,12 @@ The objective was to transform raw transactional data into meaningful business i
 ---
 
 ## 📁 Project Structure
+superstore-sales-analytics-dashboard/
+│
+├── Superstore_Data.csv
+├── Superstore_Excel_Dashboard.xlsx
+├── Superstore_SQL_Analysis.sql
+├── Superstore_Sales_Dashboard.pbix
+├── README.md
+└── Project_Documentation/
+        └── Project_Overview.txt
